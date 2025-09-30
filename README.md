@@ -26,11 +26,11 @@ A comprehensive mental health support chatbot powered by Groq AI, featuring 4000
    ```
 
 3. **Configure Groq API**
-   - Get your API key from [Groq Console](https://console.groq.com/)
+   - Get your API key from [Google AI Studio](Google AI Studio)
    - Copy `.env.example` to `.env`
    - Add your API key:
      ```
-     VITE_GROQ_API_KEY=your_groq_api_key_here
+     VITE_GEMINI_API_KEY=your_gemini_api_key_here
      ```
 
 4. **Run the application**
