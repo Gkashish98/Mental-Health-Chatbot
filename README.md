@@ -62,7 +62,7 @@ A comprehensive mental health support chatbot powered by Groq AI, featuring 4000
 ## Technology Stack
 
 - **Frontend**: React + TypeScript + Tailwind CSS
-- **AI Service**: Groq AI (Llama 3 8B model)
+- **AI Service**: Google Gemini
 - **Icons**: Lucide React
 - **Build Tool**: Vite
 - **Styling**: Tailwind CSS
